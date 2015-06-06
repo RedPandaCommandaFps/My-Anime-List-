@@ -6,9 +6,6 @@ Anime List
  - `DF` - Dead Fish
 
 ### Will Return To Later / Will Watch Later
-The Only Sane thing here is the person reading this. Not the one who made it....
-Theres this Guy named Guy and it made me think.... what if he was a girl....?
-What the fuck kid of name is octo anyway
 
 | 名前 (Name)                               | ソブソ | HDD  | EP | 日付 (Day) | Total | RUNTIME |
 | ---------------------------------------- | ----- | ---- | -- | --------- | ----- | ------- |
