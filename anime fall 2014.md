@@ -6,6 +6,7 @@ Anime List
  - `DF` - Dead Fish
 
 ### Will Return To Later / Will Watch Later
+The Only Sane thing here is the person reading this. Not the one who made it....
 
 | 名前 (Name)                               | ソブソ | HDD  | EP | 日付 (Day) | Total | RUNTIME |
 | ---------------------------------------- | ----- | ---- | -- | --------- | ----- | ------- |
