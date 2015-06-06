@@ -7,6 +7,7 @@ Anime List
 
 ### Will Return To Later / Will Watch Later
 The Only Sane thing here is the person reading this. Not the one who made it....
+Theres this Guy named Guy and it made me think.... what if he was a girl....?
 
 | 名前 (Name)                               | ソブソ | HDD  | EP | 日付 (Day) | Total | RUNTIME |
 | ---------------------------------------- | ----- | ---- | -- | --------- | ----- | ------- |
@@ -33,7 +34,7 @@ The Only Sane thing here is the person reading this. Not the one who made it....
 | Saenai Heroine no Sodatekata
 | Medaka Box
 | Shinsekai yori
-| Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku | DF | 08- | 02 | SUN
+| Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku | DF | 08- | 06 | SUN
 | Danna ga Nani o Itteiru s ka Wakaranai Ken 2-sure-me | DF | 08- | 02 |THU
 | Denpa Kyoushi | HS | 08- | 03 | SUN
 | Ansatsu Kyoushitsu | BF | 18- | 15 | SAT | 022
